@@ -1,0 +1,6 @@
+[submodule "AlphaBioMonitor-backend"]
+	path = AlphaBioMonitor-backend
+	url = https://github.com/Delos-tec/AlphaBioMonitor-backend
+[submodule "AlphaBioMonitor-frontend"]
+	path = AlphaBioMonitor-frontend
+	url = https://github.com/Delos-tec/AlphaBioMonitor-frontend
